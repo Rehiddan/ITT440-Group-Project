@@ -13,4 +13,4 @@ GROUP PROJECT
 
 To run the project, please change the your ipv4 address on line 104 on both main.py and main2.py
 
-The project uses 0,1,2 instead of 1,2,3
+The project uses 0,1,2 instead of 1,2,3 (row,column)
