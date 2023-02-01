@@ -9,5 +9,5 @@ GROUP PROJECT
 4. Open another cmd to run main2.py
 5. Play
 
-*Note
+*Note*
 To run the project, please change the your ipv4 address on line 104 on both main.py and main2.py
